@@ -50,7 +50,7 @@ Follow these steps to run the game locally:
 
 1️⃣ Clone the repository:
 
-git clone https://github.com/your-username/shadow-escape-game.git
+git clone https://github.com/sivadurshika/shadow-escape-game.git
 
 2️⃣ Open the project folder and run index.html in your browser.
 3️⃣ Start playing! 🎮
